@@ -10,6 +10,9 @@ Erneutes Drücken von boot0 beendet die Aufnahme. Die Dateien auf der SD-Karte w
 
 Es wird standardmäßig im Silent-Modus gearbeitet. Mit einer Brücke am EXT-Steckverbinder von Pin15 zu Pin16 kann aber auch im Normal-Modus gearbeitet werden.
 
+Das Projekt ist für Segger Embedded Studio: https://www.segger.com/downloads/embedded-studio/
+
+
 
 
 
